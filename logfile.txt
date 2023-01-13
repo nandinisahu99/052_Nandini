@@ -1,0 +1,44 @@
+$ git log
+commit f7686070848d2d14aff946e3a734343790479849 (HEAD -> main, spider)
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 01:16:10 2023 +0530
+
+    commit 2 in spider branch
+
+commit 396a1fc9120030fff47f7fffd06505f7dd2e48e6
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 01:14:47 2023 +0530
+
+    working
+
+commit f4deebd0b96c94081d0736560e50f8545c693e6f
+Merge: 04f3a15 9e04979
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 01:05:17 2023 +0530
+
+    Merge branch 'Develop'
+
+commit 9e04979dc3f40b6057a65454790053200983ac86 (Develop)
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 00:55:58 2023 +0530
+
+    commit in develop branch 2
+
+commit 04f3a15b3d021c3652a80d11d29c261a02c50aad
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 00:52:10 2023 +0530
+
+    commit in master branch2
+
+commit f0de77999fa1079bd38a8eaa3a9fe993dd46f1fd
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 00:42:48 2023 +0530
+
+    commit in develop branch
+
+commit a5869094155bc403153be66ada7b636f299818f7
+Author: Nandini Kumari <nandinishau990@gmail.com>
+Date:   Sat Jan 14 00:35:49 2023 +0530
+
+    comm
+
